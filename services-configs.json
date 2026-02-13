@@ -1,7 +1,7 @@
 {
   "hr-services": true,
   "social-media-services": true,
-  "it-services": true,
+  "it-services": false,
   "vacation-service": true,
   "leave-service": true,
   "loan-service": true,
