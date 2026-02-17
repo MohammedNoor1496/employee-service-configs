@@ -6,5 +6,5 @@
   "leave-service": false,
   "loan-service": true,
   "work-mission-service": true,
-  "request-service-from-hr-service": true
+  "request-service-from-hr-service": false
 }
