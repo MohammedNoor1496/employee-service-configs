@@ -1,10 +1,10 @@
 {
-  "hr-services": true,
+  "hr-services": false,
   "social-media-services": true,
   "it-services": true,
   "vacation-service": false,
   "leave-service": false,
-  "loan-service": true,
+  "loan-service": false,
   "work-mission-service": false,
   "request-service-from-hr-service": false
 }
